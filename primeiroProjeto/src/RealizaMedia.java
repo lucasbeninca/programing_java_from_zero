@@ -1,4 +1,4 @@
-public class realizaMedia {
+public class RealizaMedia {
     public static void main(String[] args) {
 
         double primeiraNota = 8.4;

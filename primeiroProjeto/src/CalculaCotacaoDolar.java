@@ -1,4 +1,4 @@
-public class calculaCotacaoDolar {
+public class CalculaCotacaoDolar {
     public static void main(String[] args) {
         double cotacaoDolar = 5.32;
         double quantidadeDedolares = 1000;
