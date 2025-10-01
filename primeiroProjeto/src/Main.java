@@ -18,5 +18,9 @@ public  class Main {
                     Ano de Lançamento:
                    """ + anoDeLancamento;
         System.out.println("Sinopse: " + sinopse);
+
+        // famoso casting converte um double para number
+        int classificacao = (int) (media / 2);
+        System.out.println(classificacao);
     }
 }
