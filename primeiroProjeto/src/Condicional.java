@@ -16,7 +16,6 @@ public class Condicional {
         } else {
             System.out.println("Deve pagar a mais");
         }
-
     }
 
 }
