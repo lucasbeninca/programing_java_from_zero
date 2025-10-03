@@ -14,19 +14,19 @@ public class Calculadora {
         switch (operacao) {
             case 1:
                 double soma =  primeiro + segundo;
-                System.out.println("A soma é " + soma);
+                System.out.println("O Resultado da soma é: " + soma);
                 break;
             case 2:
                double  subtracao =  primeiro - segundo;
-                System.out.println("A soma é " + subtracao);
+                System.out.println("O Resultado da Subtracão é: " + subtracao);
                 break;
             case 3:
                 double multiplicacao =  primeiro * segundo;
-                System.out.println("A soma é " + multiplicacao);
+                System.out.println("O Resultado da Multiplicacão é: " + multiplicacao);
                 break;
             case 4:
                 double divisao =  primeiro / segundo;
-                System.out.println("A soma é " + divisao);
+                System.out.println("O Resultado da Divisão é: " + divisao);
                 break;
             case 5:
                 break;
